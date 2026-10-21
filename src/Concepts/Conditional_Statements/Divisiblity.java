@@ -19,6 +19,8 @@ public class Divisiblity{
 
     else System.out.println("Not Divisible by 5 or 3");
 
+    // For checking if the number is divisible by either 5 or 3
+
     if (num%5 == 0 || num%3 == 0) System.out.println(num+" is Divisible by either 5 or 3 ");
     else System.out.println(num+" is not Divisible by either 5 or 3 ");
     }
