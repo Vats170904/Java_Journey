@@ -3,7 +3,7 @@ package Concepts.Conditional_Statements;
 import java.util.Scanner;
 
 public class QuadrantFinder {
-    public static void man(String[]args){
+    public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter the X coordinate : ");
