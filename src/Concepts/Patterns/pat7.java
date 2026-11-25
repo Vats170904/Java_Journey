@@ -6,7 +6,7 @@ public class pat7 {
         Scanner sc = new Scanner(System.in);
         int rw = sc.nextInt();
         for(int i = 1; i<= rw; i++){
-            for (int j =1; j<i+1;j++){
+            for (int j =1; j<=i;j++){
                 System.out.print("* ");
             }
             System.out.println();
