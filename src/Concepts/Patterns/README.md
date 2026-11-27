@@ -23,3 +23,6 @@ Pattern-printing practice programs in Java. Each program has its own README with
 | `pat16.java` | Descending numbers triangle | [pat16_README.md](pat16_README.md) |
 | `pat17.java` | Hollow square | [pat17_README.md](pat17_README.md) |
 | `pat18.java` | Plus sign | [pat18_README.md](pat18_README.md) |
+| `pat19.java` | Floyd's triangle (running numbers) | [pat19_README.md](pat19_README.md) |
+| `pat20.java` | Triangle of 1s and 0s (checkerboard style) | [pat20_README.md](pat20_README.md) |
+| `pat21.java` | Floyd's triangle (fixed size) | [pat21_README.md](pat21_README.md) |
