@@ -18,3 +18,8 @@ Pattern-printing practice programs in Java. Each program has its own README with
 | `pat11.java` | Alternating case alphabet triangle | [pat11_README.md](pat11_README.md) |
 | `pat12.java` | Alternating numbers and letters triangle | [pat12_README.md](pat12_README.md) |
 | `pat13.java` | Inverted right triangle of stars | [pat13_README.md](pat13_README.md) |
+| `pat14.java` | Inverted triangle of repeated numbers | [pat14_README.md](pat14_README.md) |
+| `pat15.java` | Inverted number triangle (1234, 123, 12, 1) | [pat15_README.md](pat15_README.md) |
+| `pat16.java` | Descending numbers triangle | [pat16_README.md](pat16_README.md) |
+| `pat17.java` | Hollow square | [pat17_README.md](pat17_README.md) |
+| `pat18.java` | Plus sign | [pat18_README.md](pat18_README.md) |
